@@ -24,13 +24,16 @@ Built to demonstrate skills in **React, state management, API integration, and r
 *(Add your screenshots in a `screenshots` folder inside your project)*
 
 ### Landing Page
-![Landing Page](./screenshots/screenshot1.png)
+![Landing Page](![Scrreenshot1](https://github.com/user-attachments/assets/79b068f3-7796-4b19-9a37-4f5c3ea5ebb4)
+)
 
 ### Patients Page
-![Patients Page](./screenshots/screenshot2.png)
+![Patients Page](![Screenshot2](https://github.com/user-attachments/assets/aa17ae41-0681-4eae-908d-81502be3ceed)
+)
 
 ### Patient Details Modal
-![Patient Modal](./screenshots/screenshot3.png)
+![Patient Modal](![Screenshot3](https://github.com/user-attachments/assets/a8ba670e-5169-44e0-9309-7d52df63d4b3)
+)
 
 ---
 
